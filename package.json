@@ -1,6 +1,6 @@
 {
   "name": "test-workflow",
-  "version": "1.0.0",
+  "version": "1.0.0.nightly-1",
   "description": "",
   "main": "helloworld.js",
   "scripts": {
